@@ -1,14 +1,13 @@
 html {
-    box-sizing: border-box;
-    background-color: #f2f2f2;
-    font-family: Georgia, serif;
-    line-height: 1.5;
+  box-sizing: border-box;
+  background-color: #f2f2f2;
+  font-family: Georgia, serif;
+  line-height: 1.5;
 }
 
-*,*::before, *::after {
+*, *::before, *::after {
   box-sizing: inherit;
 }
-
 
 .cards {
   margin: 0;
@@ -54,9 +53,6 @@ html {
   display: inline-block;
   margin: 0;
   min-width: 9em;
-}
-
-
 }
 
 .cards div {
